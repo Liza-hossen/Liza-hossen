@@ -24,6 +24,12 @@ I'm a Computer Science and Engineering student interested in building web applic
 
 ## 🚀 Projects
 
+### Travel-Bucket 🌍
+
+A travel-related project designed to help users explore and organize travel destinations.
+
+* **Repository:** Repository: Travel Bucket
+
 ### ATM Booth Project
 
 A Python-based ATM booth project.
@@ -31,10 +37,5 @@ A Python-based ATM booth project.
 * **Technology:** Python
 * **Repository:** [ATM-Booth-Project](https://github.com/Liza-hossen/ATM-Booth-Project)
 
-### Travel Bucket 🌍
-
-A travel-related project designed to help users explore and organize travel destinations.
-
-* **Repository:** [practice](https://github.com/Liza-hossen/practice)
 
 
