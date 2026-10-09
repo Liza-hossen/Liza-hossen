@@ -28,7 +28,7 @@ I'm a Computer Science and Engineering student interested in building web applic
 
 A travel-related project designed to help users explore and organize travel destinations.
 
-* **Repository: Travel-Bucket
+Repository: Travel-Bucket
 
 ### ATM Booth Project
 
