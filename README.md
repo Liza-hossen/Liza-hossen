@@ -12,15 +12,18 @@ I'm a Computer Science and Engineering student interested in building web applic
 
 ## 🛠️ Technical Skills
 
-**Languages:** JavaScript, Python, C++
+**Programming Languages:** JavaScript, Python, C++
 
-**Frontend:** HTML, CSS, React.js
+**Frontend Development:** HTML5, CSS3, React.js
 
-**Backend:** Node.js, Express.js
+**Backend Development:** Node.js, Express.js
 
 **Database:** MongoDB
 
-**Tools:** Git, GitHub
+**Tools & Version Control:** Git, GitHub
+
+**Core Interests:** Full-Stack Web Development, AI, Natural Language Processing (NLP)
+
 
 ## 🚀 Projects
 
