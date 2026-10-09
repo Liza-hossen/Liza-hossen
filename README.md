@@ -97,6 +97,17 @@ A travel-related project designed to help users explore and organize travel dest
 * **Repository:** [Travel-Bucket](https://github.com/syed-md-muntakim/Travel-Bucket.git)
 * **Live Demo:** [Website-Link](https://travel-bucket-gamma.vercel.app/)
 
+## 🚀 Projects
+
+### Perfect Cricket 🏏
+
+A 3D cricket game with toss, batting and bowling, overs and wickets, day/night mode and a full stadium. Built as a Computer Graphics project (CSE423).
+
+* **Technology:** Python, PyOpenGL (desktop version), JavaScript, Three.js (browser version)
+
+* **Repository:** [Perfect-Cricket](https://github.com/Liza-hossen/cricket_game.py)
+* **Live Demo:** [Play-Online](https://liza-hossen.github.io/cricket_game.py/)
+
 ### ATM Booth Project
 
 A Python-based ATM booth project.
