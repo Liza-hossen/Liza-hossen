@@ -24,10 +24,11 @@ I'm a Computer Science and Engineering student interested in building web applic
 
 ## 🚀 Projects
 
-### Travel-Bucket 🌍
+### Travel Bucket 🌍
 
 A travel-related project designed to help users explore and organize travel destinations.
 
+Technology: MERN Stack
 Repository: Travel-Bucket
 
 ### ATM Booth Project
