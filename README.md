@@ -28,8 +28,10 @@ I'm a Computer Science and Engineering student interested in building web applic
 
 A travel-related project designed to help users explore and organize travel destinations.
 
-Technology: MERN Stack
-Repository: Travel-Bucket
+* **Technology:** MERN STACK
+
+* **Repository:** [Travel-Bucket](https://github.com/syed-md-muntakim/Travel-Bucket.git)
+
 
 ### ATM Booth Project
 
