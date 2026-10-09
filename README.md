@@ -1,28 +1,78 @@
-# Hi, I'm Liza Akther 👋
 
-### CSE Student | MERN Stack Developer | Aspiring AI/NLP Researcher
+<div align="center">
 
-I'm a Computer Science and Engineering student interested in building web applications, solving programming problems, and exploring Artificial Intelligence and Natural Language Processing.
+# 💜 Hi, I'm Liza Akther 👋
 
-* 🌱 Currently exploring **MERN Stack Development**
-* 💻 Programming with **JavaScript, Python, and C++**
-* 🌐 Familiar with **HTML and CSS**
-* 🔬 Interested in **AI, NLP, and Software Engineering**
-* 📚 Always learning and improving my technical skills
+### 🎓 CSE Student | 💻 MERN Stack Developer | 🔬 Aspiring AI/NLP Researcher
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Web+Applications;Exploring+AI+%26+Natural+Language+Processing;Learning+Something+New+Every+Day" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+</div>
+
+---
+
+## 🌷 About Me
+
+I'm a **Computer Science and Engineering student** passionate about building web applications, solving programming problems, and exploring **Artificial Intelligence and Natural Language Processing (NLP)**.
+
+- 🌱 Currently exploring **MERN Stack Development**
+- 💻 Programming with **JavaScript, Python, and C++**
+- 🌐 Interested in **Frontend and Backend Development**
+- 🔬 Exploring **AI, NLP, and Software Engineering**
+- 🚀 Continuously learning, building, and improving
+
+---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** JavaScript, Python, C++
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp" alt="JavaScript, Python, C++" />
+</p>
 
-**Frontend Development:** HTML, CSS, React.js
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
+</p>
 
-**Backend Development:** Node.js, Express.js
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
+</p>
 
-**Database:** MongoDB
+### 🔧 Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+</p>
 
-**Tools & Version Control:** Git, GitHub
+---
 
-**Core Interests:** Full-Stack Web Development, AI, Natural Language Processing (NLP)
+## 🎯 Areas of Interest
+
+- 🌐 Full-Stack Web Development
+- 🧠 Artificial Intelligence
+- 📚 Natural Language Processing (NLP)
+- 🔍 NLP Research and Language Technologies
+- 💡 Software Engineering
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+**💜 Keep Learning · Keep Building · Keep Growing 🚀**
+
+</div>
 ## 💻 Tech Stack
 
 <p align="left">
