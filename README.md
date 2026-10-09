@@ -14,7 +14,7 @@ I'm a Computer Science and Engineering student interested in building web applic
 
 **Programming Languages:** JavaScript, Python, C++
 
-**Frontend Development:** HTML5, CSS3, React.js
+**Frontend Development:** HTML, CSS, React.js
 
 **Backend Development:** Node.js, Express.js
 
@@ -23,6 +23,12 @@ I'm a Computer Science and Engineering student interested in building web applic
 **Tools & Version Control:** Git, GitHub
 
 **Core Interests:** Full-Stack Web Development, AI, Natural Language Processing (NLP)
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github" />
+</p>
+
 
 
 ## 🚀 Projects
