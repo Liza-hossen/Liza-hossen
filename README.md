@@ -97,8 +97,6 @@ A travel-related project designed to help users explore and organize travel dest
 * **Repository:** [Travel-Bucket](https://github.com/syed-md-muntakim/Travel-Bucket.git)
 * **Live Demo:** [Website-Link](https://travel-bucket-gamma.vercel.app/)
 
-## 🚀 Projects
-
 ### Perfect Cricket 🏏
 
 A 3D cricket game with toss, batting and bowling, overs and wickets, day/night mode and a full stadium. Built as a Computer Graphics project (CSE423).
