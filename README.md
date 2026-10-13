@@ -97,6 +97,14 @@ A travel-related project designed to help users explore and organize travel dest
 * **Repository:** [Travel-Bucket](https://github.com/syed-md-muntakim/Travel-Bucket.git)
 * **Live Demo:** [Website-Link](https://travel-bucket-gamma.vercel.app/)
 
+
+### E-Commerce Shipping Analysis & ML 📦
+
+A machine learning project focused on analyzing e-commerce shipping data and predicting on-time delivery using different machine learning algorithms.
+
+* **Technology:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+* **Repository:** [E-Commerce-Shipping-Analysis-ML](https://github.com/Liza-hossen/E-Commerce-Shipping-Analysis-ML)
+
 ### Perfect Cricket 🏏
 
 A 3D cricket game with toss, batting and bowling, overs and wickets, day/night mode and a full stadium. Built as a Computer Graphics project (CSE423).
