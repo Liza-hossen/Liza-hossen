@@ -3,7 +3,7 @@
 
 # 💜 Hi, I'm Liza Akther 👋
 
-### 🎓 CSE Student | 💻 MERN Stack Developer | 🔬 Aspiring AI/NLP Researcher
+### 🎓 CSE Student | 💻 MERN Stack Developer | 🔬 Aspiring AI/ML & NLP Researcher
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Web+Applications;Exploring+AI+%26+Natural+Language+Processing;Learning+Something+New+Every+Day" alt="Typing SVG" />
@@ -104,6 +104,14 @@ A machine learning project focused on analyzing e-commerce shipping data and pre
 
 * **Technology:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 * **Repository:** [E-Commerce-Shipping-Analysis-ML](https://github.com/Liza-hossen/E-Commerce-Shipping-Analysis-ML)
+
+
+### Career Switch Prediction using Machine Learning 🎯
+
+A machine learning project focused on analyzing career-switching patterns through data preprocessing, exploratory data analysis (EDA), classification algorithms, and clustering techniques.
+
+- **Technology:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Repository:** [Career-Switch-Prediction-ML](https://github.com/Liza-hossen/Career-Switch-Prediction-ML)
 
 ### Perfect Cricket 🏏
 
