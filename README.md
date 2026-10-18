@@ -107,6 +107,14 @@ A 3D cricket game with toss, batting and bowling, overs and wickets, day/night m
 * **Repository:** [Perfect-Cricket](https://github.com/Liza-hossen/cricket_game.py)
 * **Live Demo:** [Play-Online](https://liza-hossen.github.io/cricket_game.py/)
 
+### SafeTails 🐾
+
+A full-stack pet welfare platform where people can report lost and found pets, adopt or foster animals, post community alerts, and find nearby vets. It has role-based access for users, vets and admins, email OTP verification, an interactive map, and an admin dashboard for moderation. Built as a Software Engineering project (CSE470).
+
+- **Technology:** TypeScript, Next.js (Pages Router), React, Tailwind CSS, MongoDB with Mongoose, JWT authentication, Leaflet maps, Resend email service
+- **Repository:** [SafeTails](https://github.com/Liza-hossen/CSE470_SafeTails.git)
+
+
 
 ### ATM Booth Project
 
