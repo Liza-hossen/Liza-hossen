@@ -62,7 +62,7 @@ I'm a **Computer Science and Engineering student** passionate about building web
 - 🧠 Artificial Intelligence
 - 📚 Natural Language Processing (NLP)
 - 🔍 NLP Research and Language Technologies
-- 💡 Software Engineering
+- 💡 Machine Learning
 
 ---
 ## 💻 Tech Stack
