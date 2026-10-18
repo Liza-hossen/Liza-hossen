@@ -79,12 +79,6 @@ I'm a **Computer Science and Engineering student** passionate about building web
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github" />
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liza-hossen\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liza-hossen\&layout=compact\&theme=tokyonight)
-
 
 ## 🚀 Projects
 
