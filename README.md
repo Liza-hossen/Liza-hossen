@@ -66,19 +66,6 @@ I'm a **Computer Science and Engineering student** passionate about building web
 
 ---
 
-<div align="center">
-
-### ✨ Thanks for visiting my profile! ✨
-
-**💜 Keep Learning · Keep Building · Keep Growing 🚀**
-
-</div>
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github" />
-</p>
-
 
 ## 🚀 Projects
 
@@ -115,6 +102,22 @@ A 3D cricket game with toss, batting and bowling, overs and wickets, day/night m
 
 * **Repository:** [Perfect-Cricket](https://github.com/Liza-hossen/cricket_game.py)
 * **Live Demo:** [Play-Online](https://liza-hossen.github.io/cricket_game.py/)
+
+
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+**💜 Keep Learning · Keep Building · Keep Growing 🚀**
+
+</div>
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github" />
+</p>
+
 
 ### ATM Booth Project
 
