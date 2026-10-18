@@ -65,7 +65,11 @@ I'm a **Computer Science and Engineering student** passionate about building web
 - 💡 Software Engineering
 
 ---
+## 💻 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github" />
+</p>
 
 ## 🚀 Projects
 
@@ -104,6 +108,14 @@ A 3D cricket game with toss, batting and bowling, overs and wickets, day/night m
 * **Live Demo:** [Play-Online](https://liza-hossen.github.io/cricket_game.py/)
 
 
+### ATM Booth Project
+
+A Python-based ATM booth project.
+
+* **Technology:** Python
+* **Repository:** [ATM-Booth-Project](https://github.com/Liza-hossen/ATM-Booth-Project)
+
+
 
 <div align="center">
 
@@ -112,19 +124,7 @@ A 3D cricket game with toss, batting and bowling, overs and wickets, day/night m
 **💜 Keep Learning · Keep Building · Keep Growing 🚀**
 
 </div>
-## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github" />
-</p>
-
-
-### ATM Booth Project
-
-A Python-based ATM booth project.
-
-* **Technology:** Python
-* **Repository:** [ATM-Booth-Project](https://github.com/Liza-hossen/ATM-Booth-Project)
 
 
 
